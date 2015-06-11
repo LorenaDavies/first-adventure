@@ -1,2 +1,2 @@
 # first-adventure
-my frist repo
+my first repo
